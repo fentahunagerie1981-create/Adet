@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Adet",
+  "description": "A minimalist platform designed for seamless task management and personal organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
